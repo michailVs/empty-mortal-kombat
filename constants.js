@@ -91,10 +91,10 @@ export const KEYS = [
     DOWN: 'ArrowDown',
     LEFT: 'ArrowLeft',
     RIGHT: 'ArrowRight',
-    BLOCK: 'ShiftRight',
-    HP: 'KeyI',
-    HK: 'KeyO',
-    LP: 'KeyK',
-    LK: 'KeyL'
+    BLOCK: 'Numpad0',
+    HP: 'Numpad4',
+    HK: 'Numpad5',
+    LP: 'Numpad1',
+    LK: 'Numpad2'
   }
 ];
